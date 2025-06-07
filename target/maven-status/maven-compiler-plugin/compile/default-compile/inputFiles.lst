@@ -1,0 +1,7 @@
+/home/ubuntu/gs01-2025-soa-java/src/main/java/com/example/soa/weather/service/WeatherService.java
+/home/ubuntu/gs01-2025-soa-java/src/main/java/com/example/soa/weather/Gs012025SoaJavaApplication.java
+/home/ubuntu/gs01-2025-soa-java/src/main/java/com/example/soa/weather/model/ForecastDay.java
+/home/ubuntu/gs01-2025-soa-java/src/main/java/com/example/soa/weather/client/HgWeatherClient.java
+/home/ubuntu/gs01-2025-soa-java/src/main/java/com/example/soa/weather/model/WeatherResponse.java
+/home/ubuntu/gs01-2025-soa-java/src/main/java/com/example/soa/weather/config/AppConfig.java
+/home/ubuntu/gs01-2025-soa-java/src/main/java/com/example/soa/weather/controller/WeatherController.java

@@ -1,0 +1,7 @@
+com/example/soa/weather/Gs012025SoaJavaApplication.class
+com/example/soa/weather/config/AppConfig.class
+com/example/soa/weather/model/WeatherResponse.class
+com/example/soa/weather/client/HgWeatherClient.class
+com/example/soa/weather/model/ForecastDay.class
+com/example/soa/weather/service/WeatherService.class
+com/example/soa/weather/controller/WeatherController.class
